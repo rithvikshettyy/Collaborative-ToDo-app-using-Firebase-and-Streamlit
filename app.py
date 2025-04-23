@@ -13,7 +13,8 @@ st.markdown(
             background-color: #f2f2f2;
             padding: 10px;
             border-radius: 10px;
-            color: black !important;  /* Added this line */
+            color: black !important;
+            caret-color: black !important;  /* Added this line to change cursor color */
         }
         .stButton>button {
             background-color: #6c63ff;
